@@ -7,5 +7,5 @@ backup of old programming projects for reference
 </ul>
 <b>university_projects</b>
 <ul>
-  <li>optimisation: Python file than generates 1000 linear problems from a given situation and produces 1000 output files.</li>
+  <li>optimisation: Python file than generates 1000 linear problems from a given situation and produces 1000 output files. Python, glpsol, command line.</li>
   </ul>
